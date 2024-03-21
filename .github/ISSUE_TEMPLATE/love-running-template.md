@@ -1,7 +1,7 @@
 ---
 name: Love running template
 about: Pole for runners
-title: Love running pole
+title: User Story
 labels: ''
 assignees: ''
 
